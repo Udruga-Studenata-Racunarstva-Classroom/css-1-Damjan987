@@ -1,0 +1,19 @@
+#gradient {
+	background: linear-gradient(90deg, #FF0000, #FFFF00);
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 30px;
+	font-family: Arial, sans-serif;
+}
+
+#gradient h1 {
+	letter-spacing: 2rem;
+}
+
+#gradient h2 {
+	font-size: 30px;
+	letter-spacing: 4.5px;
+}
+
+.color {
+}
